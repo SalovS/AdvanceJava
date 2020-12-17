@@ -8,8 +8,6 @@ public class TestLinkedList {
         List<Integer> arrayList = new ArrayList<>();
         measureTime(likedList);
         measureTime(arrayList);
-
-
 //        likedList.add(1);
 //        likedList.get(0);
 //        likedList.size();
